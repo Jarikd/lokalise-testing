@@ -276,6 +276,7 @@ header {
 .what-can-you-do-list {
 	display: flex;
 	flex-wrap: wrap;
+	gap: 75px;
 	justify-content: space-between;
 	max-width: 1290px;
 	padding: 21px 54px 54px;
@@ -289,5 +290,5 @@ header {
 
 .what-can-you-do-section {
 	padding-top: 120px;
-	padding-bottom: 54px;	
+	padding-bottom: 54px;
 }
