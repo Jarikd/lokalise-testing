@@ -33,6 +33,9 @@ header {
 	line-height: 20px;
 	text-decoration: none;
 }
+.header-navigation-container li a:hover {
+	color: #FF6336;
+}
 .header-right-box {
 	align-items: center;
 	display: flex;
