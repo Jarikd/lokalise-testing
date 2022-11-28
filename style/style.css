@@ -1,11 +1,13 @@
 * {
 	box-sizing: border-box;
 }
+
 .body-wrapper {
 	max-width: 1960px;
 	overflow: hidden;
 	width: 100%;
 }
+
 header {
 	align-items: center;
 	border-bottom: 1px solid #CCCCCC;
@@ -14,16 +16,19 @@ header {
 	padding: 25px 51px;
 	width: 100%;
 }
+
 .header-left-box {
 	align-items: center;
 	display: flex;
 	gap: 51px;
 }
+
 .header-navigation-container {
 	align-items: center;
 	display: flex;
 	gap: 50px;
 }
+
 .header-navigation-container li a {
 	color: black;
 	font-family: 'Graphik LCG';
@@ -33,14 +38,17 @@ header {
 	line-height: 20px;
 	text-decoration: none;
 }
+
 .header-navigation-container li a:hover {
 	color: #FF6336;
 }
+
 .header-right-box {
 	align-items: center;
 	display: flex;
 	gap: 10px;
 }
+
 .header-right-box a {
 	align-items: center;
 	border: 1px solid rgba(0, 0, 0, 0.5);
@@ -56,11 +64,13 @@ header {
 	text-decoration: none;
 	width: 120px;
 }
+
 .header-right-box a.header-try-free-btn {
 	background-color: #FF6336;
 	border: none;
 	color: white;
 }
+
 .section-wrapper-main-section {
 	border-bottom: 1px solid #CCCCCC;
 	display: flex;
@@ -68,6 +78,7 @@ header {
 	padding-bottom: 137px;
 	padding-top: 115px;
 }
+
 .main-content-box h2 {
 	font-family: 'Graphik LCG';
 	font-size: 65px;
@@ -77,6 +88,7 @@ header {
 	margin-bottom: 50px;
 	max-width: 552px;
 }
+
 .main-content-box .description {
 	font-family: 'Graphik LCG';
 	font-size: 25px;
@@ -86,10 +98,12 @@ header {
 	margin-bottom: 50px;
 	max-width: 471px;
 }
+
 .main-links-box {
 	display: flex;
 	gap: 10px;
 }
+
 .main-links-box a {
 	align-items: center;
 	border: 1px solid rgba(0, 0, 0, 0.5);
@@ -105,6 +119,7 @@ header {
 	text-decoration: none;
 	width: 160px;
 }
+
 .main-content-box .sub-description {
 	font-family: 'Graphik LCG';
 	font-size: 15px;
@@ -112,11 +127,13 @@ header {
 	font-weight: 400;
 	margin-top: 25px;
 }
+
 .main-links-box a:first-child {
 	background-color: #FF6336;
 	border: none;
 	color: white;
 }
+
 .second-section {
 	align-items: center;
 	background-color: #FF9C7D;
@@ -126,6 +143,7 @@ header {
 	padding: 100px 50px;
 	width: 100%;
 }
+
 .second-section-images {
 	align-items: center;
 	display: flex;
@@ -134,6 +152,7 @@ header {
 	justify-content: center;
 	margin-top: 82px;
 }
+
 .second-section h3 {
 	font-family: 'Graphik LCG';
 	font-size: 50px;
@@ -143,22 +162,26 @@ header {
 	max-width: 720px;
 	text-align: center;
 }
+
 .third-section {
 	display: flex;
 	flex-direction: column;
 	gap: 250px;
 	padding: 90px 100px 150px 100px;
 }
+
 .third-section-container {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
 }
-.third-section-container-reverse{
+
+.third-section-container-reverse {
 	display: flex;
 	flex-direction: row-reverse;
 	justify-content: space-between;
 }
+
 .third-section-container-info {
 	align-items: center;
 	display: flex;
@@ -167,6 +190,7 @@ header {
 	justify-content: center;
 	width: 500px;
 }
+
 .third-section-container-info h3 {
 	align-self: start;
 	font-family: 'Graphik LCG';
@@ -175,6 +199,7 @@ header {
 	font-weight: 600;
 	line-height: 60px;
 }
+
 .third-section-container-info p {
 	align-self: start;
 	font-family: 'Graphik LCG';
@@ -183,6 +208,7 @@ header {
 	font-weight: 400;
 	line-height: 30px;
 }
+
 .third-section-container-info a {
 	align-self: start;
 	color: black;
@@ -193,6 +219,7 @@ header {
 	line-height: 30px;
 	text-decoration: none;
 }
+
 #image-with-background {
 	align-items: center;
 	background-color: #FFF8E4;
@@ -200,4 +227,67 @@ header {
 	height: 577px;
 	justify-content: center;
 	width: 632px;
+}
+
+.what-can-you-do-section {
+	background-color: #FFF8E4;
+
+}
+
+.what-can-you-do-section h3 {
+	font-family: 'Graphik LCG';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 50px;
+	line-height: 60px;
+}
+
+.lokalise-item {
+	max-width: 330px;
+	text-align: center;
+
+}
+
+.lokalise-item-img {
+	width: 160px;
+	height: 120px;
+	display: block;
+	margin: 0 auto;
+}
+
+.lokalise-item-title {
+	font-family: 'Graphik LCG';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 25px;
+	line-height: 35px;
+	margin-top: 26px;
+}
+
+.lokalise-item-description {
+	font-family: 'Graphik LCG';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 25px;
+	margin-top: 20px;
+}
+
+.what-can-you-do-list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	max-width: 1290px;
+	padding: 21px 54px 54px;
+	margin: 58px auto 0;
+}
+
+.what-can-you-do-section .title {
+	text-align: center;
+}
+
+
+.what-can-you-do-section {
+	padding-top: 120px;
+	padding-bottom: 54px;	
 }
