@@ -292,3 +292,78 @@ header {
 	padding-top: 120px;
 	padding-bottom: 54px;
 }
+
+.boost-lokalization-section {
+	padding: 154px 78px 187px 75px;
+}
+
+.boost-lokalization-section .title {
+	font-family: 'Graphik LCG';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 50px;
+	line-height: 60px;
+}
+
+.boost-lokalization-list {
+	display: flex;
+	gap: 31px;
+	max-width: 1290px;
+	padding-top: 75px;
+}
+
+.boost-lokalization-item {
+	max-width: 409px;
+}
+
+.boost-lokalization-title {
+	font-family: 'Graphik LCG';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 30px;
+	line-height: 40px;
+	letter-spacing: 0em;
+	text-align: left;
+}
+
+.boost-lokalization-title.managers {
+	margin-top: 49px;
+}
+
+.boost-lokalization-title.developers {
+	margin-top: 84px;
+}
+
+.boost-lokalization-title.translators {
+	margin-top: 68px;
+}
+
+
+
+
+
+.boost-lokalization-description {
+	font-family: 'Graphik LCG';
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 30px;
+	letter-spacing: 0em;
+	text-align: left;
+	margin-top: 34px;
+	margin-bottom: 25px;
+}
+
+.boost-lokalization-item a {
+	font-family: 'Graphik LCG';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 30px;
+	color: black;
+	text-decoration-color: grey;
+}
+
+.boost-lokalization-item a:hover {
+	color: red;
+	text-decoration: none;
+}
