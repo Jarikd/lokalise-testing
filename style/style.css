@@ -367,3 +367,51 @@ header {
 	color: red;
 	text-decoration: none;
 }
+
+.revolut-review-section {
+	
+	background-color: #C9E8F2;
+}
+
+.revolut-review-text {
+	font-family: 'Graphik LCG';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 40px;
+	max-width: 920px;
+	margin-bottom: 23px;
+	letter-spacing: 0em;
+	text-align: left;
+
+
+
+}
+
+.revolut-review-name {
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 25px;
+	margin-bottom: 7px;
+}
+
+
+.revolut-review-container {
+	display: flex;
+	justify-content: space-between;
+	padding: 63px 75px 105px 75px;
+}
+
+.rate-section {
+	background: #DABC98;
+
+}
+
+.rate-section-container {
+	padding: 90px 138px 90px 54px;
+	display: flex;
+	justify-content: space-between;
+}
+
