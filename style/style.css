@@ -6,6 +6,7 @@
 	max-width: 1960px;
 	overflow: hidden;
 	width: 100%;
+	margin: 0 auto;
 }
 
 header {
@@ -271,6 +272,16 @@ header {
 	font-size: 18px;
 	line-height: 25px;
 	margin-top: 20px;
+}
+
+.lokalise-item-description a{
+	color: black;
+	text-decoration-color: grey;
+}
+
+.lokalise-item-description a:hover{
+	color: red;
+	text-decoration: none;
 }
 
 .what-can-you-do-list {
