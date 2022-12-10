@@ -77,14 +77,11 @@ header {
 	color: white;
 }
 
-
 .section-wrapper-main-section {
 	border-bottom: 1px solid #CCCCCC;
 	display: flex;
 	padding: 115px 75px 137px 75px;
-
 }
-
 
 .main-content-left-box {
 	width: 40%;
@@ -171,7 +168,6 @@ header {
 	flex-wrap: wrap;
 	gap: 80px;
 	margin-top: 82px;
-
 }
 
 .second-section-images img {
@@ -221,14 +217,12 @@ header {
 
 .third-section-container-image {
 	width: 50%;
-
 	max-width: 632px;
 	max-height: 632px;
 }
 
 .third-section-img {
 	max-width: 100%;
-
 }
 
 .third-section-container-image-with-background {
@@ -246,9 +240,6 @@ header {
 	max-width: 500px;
 	max-height: 300px;
 	width: 100%;
-
-
-
 }
 
 .third-section-container-info h3 {
@@ -284,11 +275,8 @@ header {
 	color: #FF6336;
 }
 
-
-
 .what-can-you-do-section {
 	background-color: #FFF8E4;
-
 }
 
 .what-can-you-do-section h3 {
@@ -302,7 +290,6 @@ header {
 .lokalise-item {
 	max-width: 330px;
 	text-align: center;
-
 }
 
 .lokalise-item-img {
@@ -352,7 +339,6 @@ header {
 .what-can-you-do-section .title {
 	text-align: center;
 }
-
 
 .what-can-you-do-section {
 	padding-top: 120px;
@@ -404,7 +390,6 @@ header {
 	margin-top: 66px;
 }
 
-
 .boost-lokalization-description {
 	font-family: 'Graphik LCG';
 	font-size: 20px;
@@ -432,7 +417,6 @@ header {
 }
 
 .revolut-review-section {
-
 	background-color: #C9E8F2;
 }
 
@@ -446,8 +430,6 @@ header {
 	margin-bottom: 23px;
 	letter-spacing: 0em;
 	text-align: left;
-
-
 }
 
 .revolut-review-name {
@@ -458,7 +440,6 @@ header {
 	line-height: 25px;
 	margin-bottom: 7px;
 }
-
 
 .revolut-review-container {
 	display: flex;
@@ -480,7 +461,6 @@ header {
 
 .rate-section {
 	background: #DABC98;
-
 }
 
 .rate-section-container {
@@ -488,7 +468,6 @@ header {
 	display: flex;
 	justify-content: space-between;
 }
-
 
 .rate-image1 {
 	max-width: 176px;
@@ -544,7 +523,6 @@ header {
 	font-size: 25px;
 	line-height: 30px;
 	text-align: center;
-
 }
 
 .integrate-lokalise-img {
@@ -561,9 +539,7 @@ header {
 	width: 193px;
 	height: 60px;
 	background-color: #FF6336;
-
 }
-
 
 .see-integrations-btn a {
 	color: white;
@@ -580,7 +556,6 @@ header {
 .see-integrations-btn a:hover {
 	color: #000;
 }
-
 
 .localisation-easy-section {
 	background-color: #FF9C7D;
@@ -638,7 +613,6 @@ header {
 	color: #FF6336;
 }
 
-
 .top-footer-wrapper {
 	display: flex;
 	justify-content: space-between;
@@ -648,13 +622,11 @@ header {
 	padding-bottom: 95px;
 }
 
-
 .top-footer-wrapper .left-box {
 	display: flex;
 	flex-direction: column;
 	max-width: 290px;
 }
-
 
 .footer-logo1 {
 	margin-top: 31px;
@@ -662,7 +634,6 @@ header {
 	height: 32px;
 	margin-bottom: 11px;
 }
-
 
 .footer-links-box {
 	display: flex;
@@ -781,7 +752,6 @@ header {
 	line-height: 15px;
 }
 
-
 @media (max-width: 1024px) {
 	header {
 		padding: 15px 20px;
@@ -822,7 +792,6 @@ header {
 
 	.main-content-left-box .sub-description {
 		font-size: 12px;
-
 	}
 
 	.main-links-box a {
@@ -884,9 +853,6 @@ header {
 		padding-right: 10px;
 	}
 
-
-
-
 	.what-can-you-do-section {
 		padding-top: 80px;
 		padding-bottom: 40px;
@@ -899,7 +865,6 @@ header {
 	.what-can-you-do-list {
 		gap: 30px;
 		padding: 10px 100px 54px;
-
 	}
 
 	.lokalise-item {
@@ -964,20 +929,11 @@ header {
 		max-width: 70px;
 	}
 
-
-
-
-
-
-
-
-
 	.rate-image1 {
 		display: none;
 	}
 
 	.rate-section .title {
-
 		font-size: 28px;
 		line-height: 35px;
 		padding-right: 15px;
@@ -995,7 +951,6 @@ header {
 
 	.integrate-lokalise-wrapper {
 		padding: 100px 170px;
-
 	}
 
 	.integrate-lokalise-wrapper .sub-title {
@@ -1061,8 +1016,6 @@ header {
 	}
 }
 
-
-
 @media (max-width: 768px) {
 	header {
 		padding: 10px 15px;
@@ -1105,7 +1058,6 @@ header {
 
 	.main-content-left-box .sub-description {
 		font-size: 11px;
-
 	}
 
 	.main-links-box a {
@@ -1166,7 +1118,6 @@ header {
 	.what-can-you-do-list {
 		gap: 20px;
 		padding: 10px 30px 54px;
-
 	}
 
 	.lokalise-item {
@@ -1244,7 +1195,6 @@ header {
 	.rate-section .title {
 		font-size: 24px;
 		line-height: 35px;
-
 	}
 
 	.rate-section-container {
@@ -1254,12 +1204,10 @@ header {
 	.integrate-lokalise-wrapper .title {
 		font-size: 40px;
 		line-height: 45px;
-
 	}
 
 	.integrate-lokalise-wrapper {
 		padding: 80px;
-
 	}
 
 	.integrate-lokalise-wrapper .sub-title {
@@ -1347,13 +1295,8 @@ header {
 
 	.bottom-right-box p {
 		font-size: 10px;
-
 	}
 }
-
-
-
-
 
 @media (max-width: 376px) {
 	header {
@@ -1385,7 +1328,6 @@ header {
 
 	.section-wrapper-main-section {
 		padding: 20px;
-
 	}
 
 	.main-content-left-box h2 {
@@ -1402,7 +1344,6 @@ header {
 
 	.main-content-left-box .sub-description {
 		font-size: 8px;
-
 	}
 
 	.main-links-box a {
@@ -1472,9 +1413,7 @@ header {
 		align-items: center;
 		column-gap: 25px;
 		padding: 10px 30px;
-
 		margin-top: 15px;
-
 	}
 
 	.lokalise-item {
@@ -1520,6 +1459,7 @@ header {
 		max-width: 380px;
 		border-bottom: 1px solid bisque;
 	}
+
 	.boost-lokalization-item:last-child {
 		border: none;
 	}
@@ -1530,7 +1470,6 @@ header {
 
 	.boost-lokalization-title {
 		font-size: 15px;
-
 	}
 
 	.boost-lokalization-title.managers,
@@ -1553,7 +1492,6 @@ header {
 	.revolut-review-text {
 		font-size: 12px;
 		line-height: 18px;
-	
 	}
 
 	.revolut-review-container {
@@ -1568,19 +1506,18 @@ header {
 		font-size: 12px;
 	}
 
-
 	.rate-section .title {
 		font-size: 24px;
 		line-height: 30px;
 		padding: 0;
 		text-align: center;
 		border-bottom: 1px solid black;
-	
-
 	}
+
 	.vertical-divider {
 		display: none;
 	}
+
 	.rate-section-container {
 		flex-direction: column;
 		padding: 30px;
@@ -1589,12 +1526,10 @@ header {
 	.integrate-lokalise-wrapper .title {
 		font-size: 35px;
 		line-height: 40px;
-
 	}
 
 	.integrate-lokalise-wrapper {
 		padding: 40px;
-
 	}
 
 	.integrate-lokalise-wrapper .sub-title {
@@ -1634,8 +1569,6 @@ header {
 		padding: 40px;
 	}
 
-
-
 	.top-footer-wrapper .left-box .description {
 		font-size: 11px;
 		line-height: 20px;
@@ -1648,6 +1581,7 @@ header {
 		justify-content: center;
 		align-items: center;
 	}
+
 	.top-footer-wrapper .left-box {
 		justify-content: center;
 		align-items: center;
@@ -1656,14 +1590,13 @@ header {
 
 	.top-footer-wrapper .right-box {
 		padding: 30px;
-		
 	}
-    .footer-links-box {
+
+	.footer-links-box {
 		gap: 15px;
 		justify-content: space-between;
 		flex-wrap: wrap;
 	}
-
 
 	.top-footer-wrapper .left-box a {
 		font-size: 12px;
@@ -1687,9 +1620,11 @@ header {
 	.footer-links-box li {
 		margin-bottom: 4px;
 	}
+
 	.footer-links-box ul {
 		width: 100px;
 	}
+
 	.bottom-footer-wrapper {
 		padding: 20px;
 	}
@@ -1701,6 +1636,5 @@ header {
 
 	.bottom-right-box p {
 		font-size: 8px;
-
 	}
 }
