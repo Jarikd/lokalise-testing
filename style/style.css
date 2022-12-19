@@ -1326,23 +1326,24 @@ header {
 	}
 
 	.section-wrapper-main-section {
-		padding: 80px 20px 30px 20px;
+		padding: 70px 20px 30px 20px;
 	}
 
 	.main-content-left-box h2 {
 		font-size: 20px;
-		line-height: 25px;
-		margin-bottom: 10px;
+		line-height: 20px;
+		margin-bottom: 5px;
 	}
 
 	.main-content-left-box .description {
 		font-size: 10px;
-		line-height: 15px;
-		margin-bottom: 13px;
+		line-height: 14px;
+		margin-bottom: 6px;
 	}
 
 	.main-content-left-box .sub-description {
 		font-size: 8px;
+		margin-top: 8px;
 	}
 
 	.main-links-box a {
