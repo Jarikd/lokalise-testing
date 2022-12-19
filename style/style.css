@@ -16,6 +16,9 @@ header {
 	justify-content: space-between;
 	padding: 25px 51px;
 	width: 100%;
+	position: fixed;
+	background-color: white;
+	z-index: 999;
 }
 
 .header-left-box {
@@ -80,7 +83,7 @@ header {
 .section-wrapper-main-section {
 	border-bottom: 1px solid #CCCCCC;
 	display: flex;
-	padding: 115px 75px 137px 75px;
+	padding: 180px 75px 137px 75px;
 }
 
 .main-content-left-box {
@@ -775,7 +778,7 @@ header {
 	}
 
 	.section-wrapper-main-section {
-		padding: 35px;
+		padding: 100px 35px 50px 35px;
 	}
 
 	.main-content-left-box h2 {
@@ -1038,10 +1041,6 @@ header {
 		width: 70px;
 		height: 35px;
 		font-size: 12px;
-	}
-
-	.section-wrapper-main-section {
-		padding: 35px;
 	}
 
 	.main-content-left-box h2 {
@@ -1327,7 +1326,7 @@ header {
 	}
 
 	.section-wrapper-main-section {
-		padding: 20px;
+		padding: 80px 20px 30px 20px;
 	}
 
 	.main-content-left-box h2 {
